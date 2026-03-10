@@ -1,0 +1,10 @@
+pytest
+pytest-asyncio
+fastapi
+uvicorn
+httpx
+pydantic
+python-multipart
+jinja2
+beautifulsoup4
+scrapy
