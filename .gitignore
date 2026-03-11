@@ -5,3 +5,5 @@ __pycache__/
 *.pyc
 *.pyo
 /.idea/
+/src/notes.db
+/notes.db
